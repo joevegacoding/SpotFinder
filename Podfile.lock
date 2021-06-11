@@ -1,0 +1,24 @@
+PODS:
+  - GooglePlaces (5.0.0)
+  - JGProgressHUD (2.2)
+  - LBTATools (1.0.12)
+
+DEPENDENCIES:
+  - GooglePlaces
+  - JGProgressHUD
+  - LBTATools
+
+SPEC REPOS:
+  trunk:
+    - GooglePlaces
+    - JGProgressHUD
+    - LBTATools
+
+SPEC CHECKSUMS:
+  GooglePlaces: 5d87ca13ed98b7a937e0d8bc7026f718c7263271
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  LBTATools: 389a901a01b9a56bea5682c40cd6e23530f40015
+
+PODFILE CHECKSUM: cc397f899c8016be27c9d9483ec8847a5f3e9588
+
+COCOAPODS: 1.9.1
