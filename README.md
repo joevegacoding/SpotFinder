@@ -7,7 +7,7 @@ Spot Finder is an ap that lets you find local popular places around you. It feat
 The UIs were built using the LBTAtools for a more simplistic approach. The informations were fetched using the Google Places API. I used Dispatch Group to make Asynchronous calls to fetch the images.
 
 ## Usage
-The app simply loads up custom annotations when you run it. To view more informations, you need to press on an annotation. A Google API key is needed to be able to access those informations.
+The app simply loads up custom annotations when you run it. To view more information, you need to press on an annotation. A Google API key is needed to be able to access those informations.
 
 Screenshot 1 (Light Mode)        |  Screenshot 2 (Light Mode)     |   Screenshot 3 (Light Mode)           
 :-------------------------:|:-------------------------:|:-------------------------:
